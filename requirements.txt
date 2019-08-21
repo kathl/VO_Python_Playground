@@ -1,8 +1,8 @@
-numpy==1.15.2
-matplotlib==3.0.0
+numpy==1.17.0
+matplotlib==3.1.1
 seaborn==0.9.0
-ipyaladin==0.1.5
-astropy==3.0.5
-astroquery==0.3.8
-ipywidgets==7.4.2
-widgetsnbextension==3.4.2
+ipyaladin==0.1.6
+astropy==3.2.1
+astroquery==0.3.10.dev0
+ipywidgets==7.5.0
+widgetsnbextension==3.5.0
