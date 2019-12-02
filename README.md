@@ -13,6 +13,9 @@ This tutorial demonstrates how to use virtual observatory tools and services fro
 ## The CDS tutorial
 This tutorial is a short demonstration of the CDS services within a Jupyter notebook. You will learn how to use the Aladin Lite widget for Jupyter Notebooks and how to query VizieR with astroquery. It is based in the EURO-VO tutorial called "The CDS tutorial". 
 
+## Discovery of Brown Dwarfs mining the 2MASS and SDSS databases 
+In the original tutorial four different way to find a brown dwarf in the SDSS and 2MASS catalogues are shown. This notebook add a fifth possibility, the discovery of the brown dwarf with the help of Python scripts.   
+
 ## Notes on the file structure
 The files you will be mostely intrested in are the ones ending in .ipynb. These are the Jupyter notebooks, that you may run in the Binder or on your personal machine. 
 
