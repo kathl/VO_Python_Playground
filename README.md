@@ -4,6 +4,8 @@ This repository includes all the VO tutorials that I translated into Jupyter not
 
 Based on the EURO-VO scientific tutorials (http://www.euro-vo.org/?q=science/scientific-tutorials), I started to create tutorials on how to access the Virtual Observatory with Python. These tutorials are presented as Jupyter notebooks and are collected in this repository.
 
+To start a Binder, where you may interactively try the tutorials click here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kathl/VOtutorials_with_Python/master)
+
 
 ## Abell 1656: the Coma Cluster of Galaxies
 This tutorial demonstrates how to use virtual observatory tools and services from within a Jupyter notebook to measure the redshift and velocity dispersion of the Coma Cluster. It is based on a EURO-VO tutorial also called "Abell 1656: the Coma Cluster of Galaxies".
