@@ -11,4 +11,4 @@ astroquery==0.3.10
 regions==0.4
 mocpy==0.7.4
 healpy==1.13.0
-cdshealpix==0.4.2
+cdshealpix==0.4.0
